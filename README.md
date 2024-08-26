@@ -7,7 +7,7 @@
 /displayentity (dp)
 
 ## spawn
-/dp spawn block [blockType][Properties] [x] [y] [z] [yaw] [pitch]
+/dp spawn block [blockType][Properties] [x] [y] [z] [yaw] [pitch] [-center]
 
 /dp spawn item with [itemType][components] [x] [y] [z] [yaw] [pitch]<br>
 /dp spawn item from [block/entity] [x,y,z/targetEntity] [Slot] [x] [y] [z] [yaw] [pitch]
