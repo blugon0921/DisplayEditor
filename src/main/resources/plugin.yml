@@ -1,0 +1,9 @@
+name: '${name}'
+version: '${version}'
+main: '${group}.${name.toLowerCase()}.${name}'
+api-version: '${MinecraftVersion}'
+author: Blugon
+softdepend: [WorldEdit]
+libraries:
+  - org.jetbrains.kotlin:kotlin-stdlib:${KotlinVersion}
+  - org.jetbrains.kotlin:kotlin-reflect:${KotlinVersion}
